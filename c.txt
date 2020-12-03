@@ -1,0 +1,7 @@
+total 5
+drwxr-xr-x 1 54249 197609  0 Dec  3 13:29 ./
+drwxr-xr-x 1 54249 197609  0 Dec  2 19:24 ../
+drwxr-xr-x 1 54249 197609  0 Dec  3 13:12 .git/
+-rw-r--r-- 1 54249 197609 40 Dec  3 12:48 a.txt
+-rw-r--r-- 1 54249 197609  0 Dec  3 13:07 b.txt
+-rw-r--r-- 1 54249 197609  0 Dec  3 13:29 c.txt
